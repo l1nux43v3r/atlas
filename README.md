@@ -5,9 +5,7 @@
  test2
 ```
 
-``` 
-test3
-sur plusieurs lignes
+``` test3 sur une ligne
 ```
 
 ``` 
