@@ -9,9 +9,7 @@
    test3 sur une ligne
 ``
 
-==
-test titre
-==
+== test titre ==
 
 ``` 
 test4 new lines quotes
